@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"BCD Sim",
+	"description":	{
+		""Imports a JSON file from a user prompt and creates metric tap drill sizes user parameters for each size.""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
