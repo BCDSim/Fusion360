@@ -1,0 +1,282 @@
+{
+  "0": {
+    "Size": "M1",
+    "drill": 0.75,
+    "radialEngagement": 81.5,
+    "drillAlternate": "0.78",
+    "radialEngagementAlternate": "71.7"
+  },
+  "1": {
+    "Size": "M12",
+    "drill": 10.2,
+    "radialEngagement": 83.7,
+    "drillAlternate": "10.40",
+    "radialEngagementAlternate": "74.5"
+  },
+  "2": {
+    "Size": "M1.1",
+    "drill": 1.85,
+    "radialEngagement": 81.5,
+    "drillAlternate": "0.88",
+    "radialEngagementAlternate": "71.7"
+  },
+  "3": {
+    "Size": "M14",
+    "drill": 12,
+    "radialEngagement": 81.5,
+    "drillAlternate": "12.20",
+    "radialEngagementAlternate": "73.4"
+  },
+  "4": {
+    "Size": "M1.2",
+    "drill": 0.95,
+    "radialEngagement": 81.5,
+    "drillAlternate": "0.98",
+    "radialEngagementAlternate": "71.7"
+  },
+  "5": {
+    "Size": "M16",
+    "drill": 14,
+    "radialEngagement": 81.5,
+    "drillAlternate": "14.25",
+    "radialEngagementAlternate": "71.3"
+  },
+  "6": {
+    "Size": "M1.4",
+    "drill": 1.1,
+    "radialEngagement": 81.5,
+    "drillAlternate": "1.15",
+    "radialEngagementAlternate": "67.9"
+  },
+  "7": {
+    "Size": "M18",
+    "drill": 15.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "15.75",
+    "radialEngagementAlternate": "73.4"
+  },
+  "8": {
+    "Size": "M1.6",
+    "drill": 1.25,
+    "radialEngagement": 81.5,
+    "drillAlternate": "1.30",
+    "radialEngagementAlternate": "69.9"
+  },
+  "9": {
+    "Size": "M20",
+    "drill": 17.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "17.75",
+    "radialEngagementAlternate": "73.4"
+  },
+  "10": {
+    "Size": "M1.8",
+    "drill": 1.45,
+    "radialEngagement": 81.5,
+    "drillAlternate": "1.50",
+    "radialEngagementAlternate": "69.9"
+  },
+  "11": {
+    "Size": "M22",
+    "drill": 19.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "19.75",
+    "radialEngagementAlternate": "73.4"
+  },
+  "12": {
+    "Size": "M2",
+    "drill": 1.6,
+    "radialEngagement": 81.5,
+    "drillAlternate": "1.65",
+    "radialEngagementAlternate": "71.3"
+  },
+  "13": {
+    "Size": "M24",
+    "drill": 21,
+    "radialEngagement": 81.5,
+    "drillAlternate": "21.25",
+    "radialEngagementAlternate": "74.7"
+  },
+  "14": {
+    "Size": "M2.2",
+    "drill": 1.75,
+    "radialEngagement": 81.5,
+    "drillAlternate": "1.80",
+    "radialEngagementAlternate": "72.5"
+  },
+  "15": {
+    "Size": "M27",
+    "drill": 24,
+    "radialEngagement": 81.5,
+    "drillAlternate": "24.25",
+    "radialEngagementAlternate": "74.7"
+  },
+  "16": {
+    "Size": "M2.5",
+    "drill": 2.05,
+    "radialEngagement": 81.5,
+    "drillAlternate": "2.10",
+    "radialEngagementAlternate": "72.5"
+  },
+  "17": {
+    "Size": "M30",
+    "drill": 26.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "26.75",
+    "radialEngagementAlternate": "75.7"
+  },
+  "18": {
+    "Size": "M3",
+    "drill": 2.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "2.55",
+    "radialEngagementAlternate": "r73.4"
+  },
+  "19": {
+    "Size": "M33",
+    "drill": 29.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "29.75",
+    "radialEngagementAlternate": "75.7"
+  },
+  "20": {
+    "Size": "M3.5",
+    "drill": 2.9,
+    "radialEngagement": 81.5,
+    "drillAlternate": "2.95",
+    "radialEngagementAlternate": "74.7"
+  },
+  "21": {
+    "Size": "M36",
+    "drill": 32,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "22": {
+    "Size": "M4",
+    "drill": 3.3,
+    "radialEngagement": 81.5,
+    "drillAlternate": "3.40",
+    "radialEngagementAlternate": "69.9"
+  },
+  "23": {
+    "Size": "M39",
+    "drill": 35,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "24": {
+    "Size": "M4.5",
+    "drill": 3.7,
+    "radialEngagement": 86.8,
+    "drillAlternate": "3.80",
+    "radialEngagementAlternate": "76.1"
+  },
+  "25": {
+    "Size": "M42",
+    "drill": 37.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "26": {
+    "Size": "M5",
+    "drill": 4.2,
+    "radialEngagement": 81.5,
+    "drillAlternate": "4.30",
+    "radialEngagementAlternate": "71.3"
+  },
+  "27": {
+    "Size": "M45",
+    "drill": 40.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "28": {
+    "Size": "M6",
+    "drill": 5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "5.10",
+    "radialEngagementAlternate": "73.4"
+  },
+  "29": {
+    "Size": "M48",
+    "drill": 43,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "30": {
+    "Size": "M7",
+    "drill": 6,
+    "radialEngagement": 81.5,
+    "drillAlternate": "6.10",
+    "radialEngagementAlternate": "73.4"
+  },
+  "31": {
+    "Size": "M52",
+    "drill": 47,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "32": {
+    "Size": "M8",
+    "drill": 6.8,
+    "radialEngagement": 78.5,
+    "drillAlternate": "6.90",
+    "radialEngagementAlternate": "71.7"
+  },
+  "33": {
+    "Size": "M56",
+    "drill": 50.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "34": {
+    "Size": "M9",
+    "drill": 7.8,
+    "radialEngagement": 78.5,
+    "drillAlternate": "7.90",
+    "radialEngagementAlternate": "71.7"
+  },
+  "35": {
+    "Size": "M60",
+    "drill": 54.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "36": {
+    "Size": "M10",
+    "drill": 8.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "8.60",
+    "radialEngagementAlternate": "76.1"
+  },
+  "37": {
+    "Size": "M64",
+    "drill": 58,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  },
+  "38": {
+    "Size": "M11",
+    "drill": 9.5,
+    "radialEngagement": 81.5,
+    "drillAlternate": "9.60",
+    "radialEngagementAlternate": "76.1"
+  },
+  "39": {
+    "Size": "M68",
+    "drill": 62,
+    "radialEngagement": 81.5,
+    "drillAlternate": "…",
+    "radialEngagementAlternate": "…"
+  }
+}
